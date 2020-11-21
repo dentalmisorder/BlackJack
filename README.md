@@ -1,6 +1,9 @@
 # BlackJack + [Fantasy DLC]
 Simplified texted version of blackjack but with perks, u know, RPG stuff
 
+# RULES:
+You start first, dealer second. First who get closer to 21 is a winner, but if u got more then 21 u lose. (START GAME FROM game.py)
+
 # RANKS : VALUE
 * 'Dweller' : 1
 * 'Farmer' : 2
