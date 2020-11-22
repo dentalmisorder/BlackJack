@@ -35,7 +35,7 @@ class Card():
         self.value = ranks[rank]
 
     def __str__(self):
-        return f'CARD: {self.name} | CLAN: {self.clan} | VALUE: {self.value}'
+        return f'{self.name} | CLAN: {self.clan} | VALUE: {self.value}'
     
     def __len__(self):
         return self.value
